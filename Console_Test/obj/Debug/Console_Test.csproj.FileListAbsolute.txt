@@ -1,0 +1,7 @@
+F:\Projects\Routine_Sol\Console_Test\bin\Debug\Console_Test.exe.config
+F:\Projects\Routine_Sol\Console_Test\bin\Debug\Console_Test.exe
+F:\Projects\Routine_Sol\Console_Test\bin\Debug\Console_Test.pdb
+F:\Projects\Routine_Sol\Console_Test\obj\Debug\Console_Test.csprojResolveAssemblyReference.cache
+F:\Projects\Routine_Sol\Console_Test\obj\Debug\Console_Test.exe
+F:\Projects\Routine_Sol\Console_Test\obj\Debug\Console_Test.pdb
+F:\Projects\Routine_Sol\Console_Test\bin\Debug\first_sem.txt

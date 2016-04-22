@@ -1,0 +1,30 @@
+
+
+1:  CSE1101    CSE1103    ME1151    CSE1104    CSE1104    CSE1104    CHEM1151    ENG1151    MATH1153
+    CSE2101    CSE2111    ECE2151    ECON2151    MATH2153     Blank     CSE2102    CSE2102    CSE2102
+     Blank      Blank      Blank     CSE3100    CSE3100    CSE3100     Blank      Blank      Blank 
+     Blank      Blank      Blank      Blank      Blank      Blank     CSE4104    CSE4104    CSE4104
+
+2:  CSE1101    CSE1103    ME1151    CHEM1152    CHEM1152    CHEM1152    CHEM1151    ENG1151    MATH1153
+    CSE2101    CSE2111    ECE2151    ECON2151    MATH2153     Blank     CSE2112    CSE2112    CSE2112
+     Blank      Blank      Blank     CSE3102    CSE3102    CSE3102     Blank      Blank      Blank 
+     Blank      Blank      Blank      Blank      Blank      Blank     CSE4106    CSE4106    CSE4106
+
+3:  CSE1103    ME1151    CHEM1151    PHY1154    PHY1154    PHY1154    MATH1153    PHY1153     Blank 
+    CSE2101    CSE2111    ECE2151    MATH2153     Blank      Blank     CSE2114    CSE2114    CSE2114
+    CSE3101    CSE3105    CSE3111    CSE3106    CSE3106    CSE3106    BA3151    MATH3153     Blank 
+    CSE4100    CSE4103    CSE4105    CSE4111     Blank      Blank     CSE4112    CSE4112    CSE4112
+
+4:  PHY1153     Blank      Blank      Blank      Blank      Blank      Blank      Blank      Blank 
+     Blank      Blank      Blank     ECE2152    ECE2152    ECE2152     Blank      Blank      Blank 
+    CSE3101    CSE3105    CSE3111    ECE3151    BA3151    MATH3153    CSE3112    CSE3112    CSE3112
+    CSE4100    CSE4103    CSE4105    CSE4111     Blank      Blank      Blank      Blank      Blank 
+
+5:  PHY1153     Blank      Blank      Blank      Blank      Blank      Blank      Blank      Blank 
+     Blank      Blank      Blank      Blank      Blank      Blank      Blank      Blank      Blank 
+    CSE3101    CSE3105    CSE3111    ECE3151    BA3151    MATH3153     Blank      Blank      Blank 
+    CSE4100    CSE4103    CSE4105    CSE4111     Blank      Blank      Blank      Blank      Blank 
+
+
+
+Done!
